@@ -1,0 +1,618 @@
+[
+  {
+    "Material": "Ash",
+    "Density": 0.56
+  },
+  {
+    "Material": "Aspen",
+    "Density": 0.38
+  },
+  {
+    "Material": "Basswood",
+    "Density": 0.38
+  },
+  {
+    "Material": "Cedar",
+    "Density": 0.35
+  },
+  {
+    "Material": "Cherry",
+    "Density": 0.5
+  },
+  {
+    "Material": "Grey Elm",
+    "Density": 0.5
+  },
+  {
+    "Material": "Hackberry",
+    "Density": 0.53
+  },
+  {
+    "Material": "Hickory",
+    "Density": 0.72
+  },
+  {
+    "Material": "Hard Maple",
+    "Density": 0.6
+  },
+  {
+    "Material": "Pine",
+    "Density": 0.38
+  },
+  {
+    "Material": "Red Elm",
+    "Density": 0.53
+  },
+  {
+    "Material": "Red Oak",
+    "Density": 0.63
+  },
+  {
+    "Material": "Soft Maple",
+    "Density": 0.48
+  },
+  {
+    "Material": "Walnut",
+    "Density": 0.55
+  },
+  {
+    "Material": "White Oak",
+    "Density": 0.68
+  },
+  {
+    "Material": "Fir",
+    "Density": 0.37
+  },
+  {
+    "Material": "Douglas Fir",
+    "Density": 0.47
+  },
+  {
+    "Material": "Larch",
+    "Density": 0.48
+  },
+  {
+    "Material": "Redwood",
+    "Density": 0.27
+  },
+  {
+    "Material": "Galium",
+    "Density": 5.91
+  },
+  {
+    "Material": "Zirconiua (partially stabilized)",
+    "Density": 5.7
+  },
+  {
+    "Material": "Germanium",
+    "Density": 5.32
+  },
+  {
+    "Material": "Titanium nitride",
+    "Density": 5.29
+  },
+  {
+    "Material": "Tittanium carbide",
+    "Density": 4.94
+  },
+  {
+    "Material": "Titanium diboride",
+    "Density": 4.52
+  },
+  {
+    "Material": "Titanium",
+    "Density": 4.51
+  },
+  {
+    "Material": "Ti-6Al-4V",
+    "Density": 4.5
+  },
+  {
+    "Material": "Titanium dioxide",
+    "Density": 4.25
+  },
+  {
+    "Material": "Aluminium oxide",
+    "Density": 3.98
+  },
+  {
+    "Material": "Spinel (MgO.Al3O3)",
+    "Density": 3.57
+  },
+  {
+    "Material": "Aluminium nitride",
+    "Density": 3.26
+  },
+  {
+    "Material": "Sialon",
+    "Density": 3.2
+  },
+  {
+    "Material": "Silicon nitride",
+    "Density": 3.19
+  },
+  {
+    "Material": "Mullite (3Al2O3-2SiO2)",
+    "Density": 3.16
+  },
+  {
+    "Material": "Silicon carbide",
+    "Density": 3.1
+  },
+  {
+    "Material": "Hydroxyapatite",
+    "Density": 3.1
+  },
+  {
+    "Material": "Aluminium carbide",
+    "Density": 2.99
+  },
+  {
+    "Material": "Wollastonite",
+    "Density": 2.9
+  },
+  {
+    "Material": "Aluminium copper alloy",
+    "Density": 2.84
+  },
+  {
+    "Material": "Aluminium zinc alloy",
+    "Density": 2.78
+  },
+  {
+    "Material": "Aluminium",
+    "Density": 2.7
+  },
+  {
+    "Material": "Cordierite",
+    "Density": 2.65
+  },
+  {
+    "Material": "E-glass fiber",
+    "Density": 2.62
+  },
+  {
+    "Material": "Pyrex glass",
+    "Density": 2.52
+  },
+  {
+    "Material": "Boron carbide",
+    "Density": 2.52
+  },
+  {
+    "Material": "Boron",
+    "Density": 2.4
+  },
+  {
+    "Material": "Silicon",
+    "Density": 2.33
+  },
+  {
+    "Material": "PTFE (polytetrafluoroethylene)",
+    "Density": 2.3
+  },
+  {
+    "Material": "Graphite",
+    "Density": 2.26
+  },
+  {
+    "Material": "Boron nitride",
+    "Density": 2.25
+  },
+  {
+    "Material": "Sulfur",
+    "Density": 2.07
+  },
+  {
+    "Material": "Unsaturated polyester",
+    "Density": 2
+  },
+  {
+    "Material": "Polymide thermoset",
+    "Density": 2
+  },
+  {
+    "Material": "Phenolic resin",
+    "Density": 1.99
+  },
+  {
+    "Material": "Beryllium",
+    "Density": 1.85
+  },
+  {
+    "Material": "Phosphorus",
+    "Density": 1.83
+  },
+  {
+    "Material": "Carbon fiber",
+    "Density": 1.74
+  },
+  {
+    "Material": "Magnesium",
+    "Density": 1.74
+  },
+  {
+    "Material": "PPS (polyphenyleene sulfide)",
+    "Density": 1.67
+  },
+  {
+    "Material": "Nylon 6",
+    "Density": 1.64
+  },
+  {
+    "Material": "Acetal resin",
+    "Density": 1.57
+  },
+  {
+    "Material": "Epoxy resin",
+    "Density": 1.56
+  },
+  {
+    "Material": "Calcium",
+    "Density": 1.55
+  },
+  {
+    "Material": "Rubidium",
+    "Density": 1.53
+  },
+  {
+    "Material": "Polycarbonate",
+    "Density": 1.53
+  },
+  {
+    "Material": "Aremid fiber",
+    "Density": 1.45
+  },
+  {
+    "Material": "Aramotic polymide",
+    "Density": 1.44
+  },
+  {
+    "Material": "Bismaleimide resin",
+    "Density": 1.36
+  },
+  {
+    "Material": "Silicone",
+    "Density": 1.35
+  },
+  {
+    "Material": "PEEK (polyetheretherketone)",
+    "Density": 1.32
+  },
+  {
+    "Material": "Cellulose acetate",
+    "Density": 1.3
+  },
+  {
+    "Material": "Human Bone",
+    "Density": 1.3
+  },
+  {
+    "Material": "Polyurethane",
+    "Density": 1.27
+  },
+  {
+    "Material": "ABS (acrylonitrile butadiene styrene)",
+    "Density": 1.26
+  },
+  {
+    "Material": "Polysulfone",
+    "Density": 1.24
+  },
+  {
+    "Material": "Acrylic",
+    "Density": 1.19
+  },
+  {
+    "Material": "Polypropylene",
+    "Density": 1.05
+  },
+  {
+    "Material": "Sodium",
+    "Density": 0.97
+  },
+  {
+    "Material": "PE (polyethylene)",
+    "Density": 0.95
+  },
+  {
+    "Material": "UHMWPE (ultrahigh molecular weight PE)",
+    "Density": 0.93
+  },
+  {
+    "Material": "Potassium",
+    "Density": 0.86
+  },
+  {
+    "Material": "Lithium",
+    "Density": 0.53
+  },
+  {
+    "Material": "PVC",
+    "Density": 1.4
+  },
+  {
+    "Material": "Iridium",
+    "Density": 22.65
+  },
+  {
+    "Material": "Osmium",
+    "Density": 22.61
+  },
+  {
+    "Material": "Platinum",
+    "Density": 21.45
+  },
+  {
+    "Material": "Rhenium",
+    "Density": 21
+  },
+  {
+    "Material": "Tungsten",
+    "Density": 19.4
+  },
+  {
+    "Material": "Gold",
+    "Density": 19.3
+  },
+  {
+    "Material": "Uranium",
+    "Density": 19.07
+  },
+  {
+    "Material": "Tungsten carbide",
+    "Density": 17.2
+  },
+  {
+    "Material": "Tantalum",
+    "Density": 16.6
+  },
+  {
+    "Material": "Tantalum cabide(TaC)",
+    "Density": 14.53
+  },
+  {
+    "Material": "Hafnium",
+    "Density": 13.1
+  },
+  {
+    "Material": "Ruthenium",
+    "Density": 12.45
+  },
+  {
+    "Material": "Rhodium",
+    "Density": 12.41
+  },
+  {
+    "Material": "Palladium",
+    "Density": 12.02
+  },
+  {
+    "Material": "Thallium",
+    "Density": 11.85
+  },
+  {
+    "Material": "Tholium",
+    "Density": 11.5
+  },
+  {
+    "Material": "Lead",
+    "Density": 11.34
+  },
+  {
+    "Material": "Silver",
+    "Density": 10.49
+  },
+  {
+    "Material": "molybdenum",
+    "Density": 10.2
+  },
+  {
+    "Material": "Bismuth",
+    "Density": 9.8
+  },
+  {
+    "Material": "Thulium",
+    "Density": 9.31
+  },
+  {
+    "Material": "Cast hight leaded tin bronze",
+    "Density": 9.29
+  },
+  {
+    "Material": "Nickel-moly(Hastelly B-2)",
+    "Density": 9.2
+  },
+  {
+    "Material": "Copper",
+    "Density": 8.96
+  },
+  {
+    "Material": "Nickel",
+    "Density": 8.9
+  },
+  {
+    "Material": "Copper nickel(64Cu-14Ni-22Zn)",
+    "Density": 8.85
+  },
+  {
+    "Material": "Cobalt",
+    "Density": 8.85
+  },
+  {
+    "Material": "Nickel silver",
+    "Density": 8.7
+  },
+  {
+    "Material": "Brass(61.5Cu-3Pb-35.5Zn)",
+    "Density": 8.7
+  },
+  {
+    "Material": "Bronze(57Cu,40Zn,3Pb)",
+    "Density": 8.7
+  },
+  {
+    "Material": "Cadmium",
+    "Density": 8.65
+  },
+  {
+    "Material": "Niobium(Columbium)",
+    "Density": 8.57
+  },
+  {
+    "Material": "Nickel chromium cobalt alloy",
+    "Density": 8.21
+  },
+  {
+    "Material": "Nickel-chromium(Inconel 718)",
+    "Density": 8.2
+  },
+  {
+    "Material": "Copper zinc alloy",
+    "Density": 8.19
+  },
+  {
+    "Material": "Maraing steel",
+    "Density": 8.02
+  },
+  {
+    "Material": "Austentic stainless steel",
+    "Density": 8
+  },
+  {
+    "Material": "Iron-nickel(Invar)",
+    "Density": 8
+  },
+  {
+    "Material": "Iron",
+    "Density": 7.87
+  },
+  {
+    "Material": "Nickel iron superally",
+    "Density": 7.86
+  },
+  {
+    "Material": "Chromium steel",
+    "Density": 7.83
+  },
+  {
+    "Material": "Nonresuktfurized carbon steel",
+    "Density": 7.83
+  },
+  {
+    "Material": "Stainless steel(17Cr-4Ni)",
+    "Density": 7.81
+  },
+  {
+    "Material": "Hot work tool steel",
+    "Density": 7.75
+  },
+  {
+    "Material": "Aluminium bronze",
+    "Density": 7.64
+  },
+  {
+    "Material": "Babbitt",
+    "Density": 7.5
+  },
+  {
+    "Material": "Samarium",
+    "Density": 7.49
+  },
+  {
+    "Material": "Maganese",
+    "Density": 7.43
+  },
+  {
+    "Material": "Indium",
+    "Density": 7.31
+  },
+  {
+    "Material": "Niobium nitride",
+    "Density": 7.3
+  },
+  {
+    "Material": "Tin",
+    "Density": 7.3
+  },
+  {
+    "Material": "Cerium dioxide",
+    "Density": 7.28
+  },
+  {
+    "Material": "Astempered ductile iron",
+    "Density": 7.2
+  },
+  {
+    "Material": "Pewter(Sn,Sb,Cu)",
+    "Density": 7.2
+  },
+  {
+    "Material": "Chromium",
+    "Density": 7.19
+  },
+  {
+    "Material": "Zince",
+    "Density": 7.13
+  },
+  {
+    "Material": "Neodymium",
+    "Density": 7
+  },
+  {
+    "Material": "Praseodymium",
+    "Density": 6.77
+  },
+  {
+    "Material": "Cerium",
+    "Density": 6.77
+  },
+  {
+    "Material": "Chromium carbide",
+    "Density": 6.7
+  },
+  {
+    "Material": "Antimony",
+    "Density": 6.65
+  },
+  {
+    "Material": "Zinconium",
+    "Density": 6.49
+  },
+  {
+    "Material": "Lanthanum",
+    "Density": 6.15
+  },
+  {
+    "Material": "Vanadium",
+    "Density": 6.11
+  },
+  {
+    "Material": "Nivkel aluminide (NiAl)",
+    "Density": 6.05
+  },
+  {
+    "Material": "PLA Filament",
+    "Density": 1.27
+  },
+  {
+    "Material": "ABS Filament",
+    "Density": 1.05
+  },
+  {
+    "Material": "PVA Filament",
+    "Density": 1.19
+  },
+  {
+    "Material": "HIPS Filament",
+    "Density": 1.04
+  },
+  {
+    "Material": "PETG Filament",
+    "Density": 1.25
+  },
+  {
+    "Material": "TPU Filament",
+    "Density": 1.3
+  }
+]

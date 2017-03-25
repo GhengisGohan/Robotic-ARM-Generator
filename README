@@ -1,0 +1,13 @@
+## Robotic ARM Automatic Builder
+This project is for building a program that can build Robotic Arms Automatically. 
+
+## Running it
+python buildroboticarm.py -l 50 -w 58
+
+
+## Installing PhantomJS
+sudo pip install selenium
+Download & Extract http://phantomjs.org/download.html
+sudo mv ./phantomjs-2.1.1-linux-x86_64 /usr/local/share/
+sudo ln /usr/local/share/phantomjs-2.1.1-linux-x86_64//bin/phantomjs /usr/local/bin
+phantomjs --version
